@@ -1,0 +1,12 @@
+main,header {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+ #turnOn , #turnOff{
+    width: 100px;
+ }
+ #refreshBtn{
+    margin-top: 10px;
+    visibility: hidden;
+ }
